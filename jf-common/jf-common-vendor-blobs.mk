@@ -143,7 +143,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/jf-common/proprietary/lib/hw/sensorhubs.msm8960.so:system/lib/hw/sensorhubs.msm8960.so \
 	vendor/samsung/jf-common/proprietary/bin/time_daemon:system/bin/time_daemon \
 	vendor/samsung/jf-common/proprietary/lib/libTimeService.so:system/lib/libTimeService.so \
-	vendor/samsung/jf-common/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
 	vendor/samsung/jf-common/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \
 	vendor/samsung/jf-common/proprietary/etc/wifi/bcmdhd_ibss.bin:system/etc/wifi/bcmdhd_ibss.bin \
 	vendor/samsung/jf-common/proprietary/etc/wifi/bcmdhd_mfg.bin:system/etc/wifi/bcmdhd_mfg.bin \
