@@ -72,6 +72,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/jf-common/proprietary/lib/libchromatix_s5k6b2yx_vt.so:system/lib/libchromatix_s5k6b2yx_vt.so \
 	vendor/samsung/jf-common/proprietary/lib/libchromatix_s5k6b2yx_vt_hd.so:system/lib/libchromatix_s5k6b2yx_vt_hd.so \
 	vendor/samsung/jf-common/proprietary/lib/libgemini.so:system/lib/libgemini.so \
+	vendor/samsung/jf-common/proprietary/lib/libgnustl_shared.so:system/lib/libgnustl_shared.so \
 	vendor/samsung/jf-common/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
 	vendor/samsung/jf-common/proprietary/lib/libimage-omx-common.so:system/lib/libimage-omx-common.so \
 	vendor/samsung/jf-common/proprietary/lib/libmercury.so:system/lib/libmercury.so \
