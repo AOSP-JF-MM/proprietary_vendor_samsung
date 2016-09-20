@@ -193,7 +193,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/jf-common/proprietary/rild/cdma/bin/qcks:system/rild/cdma/bin/qcks \
 	vendor/samsung/jf-common/proprietary/rild/cdma/bin/qmuxd:system/rild/cdma/bin/qmuxd \
 	vendor/samsung/jf-common/proprietary/rild/cdma/bin/rild:system/rild/cdma/bin/rild \
-	vendor/samsung/jf-common/proprietary/rild/cdma/bin/rmt_storage:system/rild/cdma/bin/rmt_storage \
 	vendor/samsung/jf-common/proprietary/rild/cdma/lib/libatparser.so:system/rild/cdma/lib/libatparser.so \
 	vendor/samsung/jf-common/proprietary/rild/cdma/lib/libfactoryutil.so:system/rild/cdma/lib/libfactoryutil.so \
 	vendor/samsung/jf-common/proprietary/rild/cdma/lib/libomission_avoidance.so:system/rild/cdma/lib/libomission_avoidance.so \
@@ -224,7 +223,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/jf-common/proprietary/rild/usc/bin/qcks:system/rild/usc/bin/qcks \
 	vendor/samsung/jf-common/proprietary/rild/usc/bin/qmuxd:system/rild/usc/bin/qmuxd \
 	vendor/samsung/jf-common/proprietary/rild/usc/bin/rild:system/rild/usc/bin/rild \
-	vendor/samsung/jf-common/proprietary/rild/usc/bin/rmt_storage:system/rild/usc/bin/rmt_storage \
 	vendor/samsung/jf-common/proprietary/rild/usc/lib/libatparser.so:system/rild/usc/lib/libatparser.so \
 	vendor/samsung/jf-common/proprietary/rild/usc/lib/libfactoryutil.so:system/rild/usc/lib/libfactoryutil.so \
 	vendor/samsung/jf-common/proprietary/rild/usc/lib/libomission_avoidance.so:system/rild/usc/lib/libomission_avoidance.so \
@@ -267,7 +265,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/jf-common/proprietary/rild/vzw/bin/qcks:system/rild/vzw/bin/qcks \
 	vendor/samsung/jf-common/proprietary/rild/vzw/bin/qmuxd:system/rild/vzw/bin/qmuxd \
 	vendor/samsung/jf-common/proprietary/rild/vzw/bin/rild:system/rild/vzw/bin/rild \
-	vendor/samsung/jf-common/proprietary/rild/vzw/bin/rmt_storage:system/rild/vzw/bin/rmt_storage \
 	vendor/samsung/jf-common/proprietary/rild/vzw/lib/libatparser.so:system/rild/vzw/lib/libatparser.so \
 	vendor/samsung/jf-common/proprietary/rild/vzw/lib/libfactoryutil.so:system/rild/vzw/lib/libfactoryutil.so \
 	vendor/samsung/jf-common/proprietary/rild/vzw/lib/libomission_avoidance.so:system/rild/vzw/lib/libomission_avoidance.so \
