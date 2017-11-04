@@ -129,7 +129,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/jf-common/proprietary/lib/libsensirion_j1.so:system/lib/libsensirion_j1.so \
 	vendor/samsung/jf-common/proprietary/lib/hw/sensors.msm8960.so:system/lib/hw/sensors.msm8960.so \
 	vendor/samsung/jf-common/proprietary/lib/hw/sensorhubs.msm8960.so:system/lib/hw/sensorhubs.msm8960.so \
-	vendor/samsung/jf-common/proprietary/bin/time_daemon:system/bin/time_daemon \
 	vendor/samsung/jf-common/proprietary/lib/libTimeService.so:system/lib/libTimeService.so \
 	vendor/samsung/jf-common/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \
 	vendor/samsung/jf-common/proprietary/etc/wifi/bcmdhd_ibss.bin:system/etc/wifi/bcmdhd_ibss.bin \
@@ -138,6 +137,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/jf-common/proprietary/etc/wifi/cred.conf:system/etc/wifi/cred.conf \
 	vendor/samsung/jf-common/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
 	vendor/samsung/jf-common/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
+	vendor/samsung/jf-common/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
 	vendor/samsung/jf-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
 	vendor/samsung/jf-common/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
 	vendor/samsung/jf-common/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
